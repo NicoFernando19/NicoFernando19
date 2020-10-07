@@ -11,6 +11,7 @@
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 <br />
 
@@ -37,3 +38,4 @@
 <!-- [website]: https://codeSTACKr.com -->
 [instagram]: https://www.instagram.com/nico_fernando1
 [linkedin]: https://www.linkedin.com/in/nico-fernando-b30ba9175
+[whatsapp]:  https://api.whatsapp.com/send?phone=6282124732278
