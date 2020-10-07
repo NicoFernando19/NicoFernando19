@@ -37,6 +37,10 @@
 <br />
 <img align="left" alt="Nico Fernando Stats" src="https://github-readme-stats.nicofernando19.vercel.app/api?username=NicoFernando19&show_icons=true&hide_border=true" />
 
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 [instagram]: https://www.instagram.com/nico_fernando1
 [linkedin]: https://www.linkedin.com/in/nico-fernando-b30ba9175
 [whatsapp]:  https://api.whatsapp.com/send?phone=6282124732278

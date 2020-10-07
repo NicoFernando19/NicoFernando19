@@ -1,0 +1,16 @@
+name: GitHub - Activity - Readme
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ 2542ccae92dbea0815aa807eb6ef9df41b87b942 }}
