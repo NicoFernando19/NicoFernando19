@@ -35,7 +35,7 @@
 
 <br />
 <br />
-<img align="left" alt="Nico Fernando Stats" src="https://github-readme-stats.nicofernando19.vercel.app/api?username=NicoFernando19&show_icons=true&hide_border=true" />
+<img align="left" alt="Nico Fernando Stats" src="https://github-readme-stats.vercel.app/api?username=NicoFernando19&show_icons=true&hide_border=true&theme=dark&count_private=true" />
 
 
 <!--START_SECTION:activity-->
